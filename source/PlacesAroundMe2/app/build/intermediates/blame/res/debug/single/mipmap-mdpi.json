@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_btn_search.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\src\\main\\res\\mipmap-mdpi\\ic_btn_search.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_btn_locate.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\src\\main\\res\\mipmap-mdpi\\ic_btn_locate.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\logo.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Oct 19 21:39:53 ICT 2016
+base.0=E\:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex
+base.1=E\:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=E\:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
