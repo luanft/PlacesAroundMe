@@ -28,24 +28,24 @@
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_16_light.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_02_light.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_02_light.png"
-    },
-    {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_play_dark.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_02_light.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_02_light.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_replay_30_grey600_36.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
-    },
-    {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_replay_30_grey600_36.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
@@ -172,12 +172,12 @@
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_tv_dark.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable-xxhdpi-v4\\cast_ic_notification_1.png"
-    },
-    {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_03_light.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_03_light.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\drawable-xxhdpi-v4\\cast_ic_notification_1.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_15_dark.png",
@@ -216,12 +216,12 @@
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_10_light.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_light.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\drawable-xxhdpi-v4\\powered_by_google_light.png"
-    },
-    {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_21_light.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_21_light.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\drawable-xxhdpi-v4\\powered_by_google_light.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_20_dark.png",
@@ -244,28 +244,28 @@
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.6.1\\res\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_11_light.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_11_light.png"
-    },
-    {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_09_dark.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_09_dark.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_11_light.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_11_light.png"
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_11_light.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_11_light.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_21_dark.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_21_dark.png"
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_11_light.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_11_light.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_01_light.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_01_light.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_21_dark.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_on_21_dark.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_21_light.png",
@@ -936,12 +936,12 @@
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_01_dark.png"
     },
     {
-        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_14_dark.png",
         "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_14_dark.png"
+    },
+    {
+        "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_24.png",
+        "source": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "E:\\PROJECT\\PlacesAroundMe\\trunk\\source\\PlacesAroundMe2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_02_dark.png",

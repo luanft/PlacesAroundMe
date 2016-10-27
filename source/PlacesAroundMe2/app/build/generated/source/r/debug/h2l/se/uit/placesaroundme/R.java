@@ -3144,7 +3144,6 @@ containing a value of this type.
         public static final int disableHome=0x7f0e001a;
         public static final int donate_with=0x7f0e0062;
         public static final int donate_with_google=0x7f0e0063;
-        public static final int editText=0x7f0e00a0;
         public static final int edit_query=0x7f0e0092;
         public static final int email=0x7f0e0036;
         public static final int end=0x7f0e0039;
@@ -3301,6 +3300,7 @@ containing a value of this type.
         public static final int toolbar=0x7f0e00a6;
         public static final int top=0x7f0e0054;
         public static final int topPanel=0x7f0e007c;
+        public static final int txt_place=0x7f0e00a0;
         public static final int up=0x7f0e0016;
         public static final int url=0x7f0e0048;
         public static final int useLogo=0x7f0e0020;

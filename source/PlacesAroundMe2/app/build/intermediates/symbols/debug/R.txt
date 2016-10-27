@@ -1068,7 +1068,6 @@ int id demote_rfc822_hostnames 0x7f0e004a
 int id disableHome 0x7f0e001a
 int id donate_with 0x7f0e0062
 int id donate_with_google 0x7f0e0063
-int id editText 0x7f0e00a0
 int id edit_query 0x7f0e0092
 int id email 0x7f0e0036
 int id end 0x7f0e0039
@@ -1225,6 +1224,7 @@ int id title_view 0x7f0e00bf
 int id toolbar 0x7f0e00a6
 int id top 0x7f0e0054
 int id topPanel 0x7f0e007c
+int id txt_place 0x7f0e00a0
 int id up 0x7f0e0016
 int id url 0x7f0e0048
 int id useLogo 0x7f0e0020
